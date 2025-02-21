@@ -3,12 +3,20 @@ CineVista is a Flask-based Movie Database Web Application that allows users to m
 
 # Feature:
  1)Fetch all movies from the database (GET /movies)
+ 
  2)Add new movies (POST /movies)
+
  3)Add reviews for movies (POST /reviews)
+ 
  4)Update movie details (PUT /movies/<movie_id>)
+ 
  5)Delete a movie (DELETE /movies/<movie_id>)
  
 #Tech-Stack:
+
 Backend: Flask (Python)
+
 Database: MySQL
+
 API Testing: Postman
+
